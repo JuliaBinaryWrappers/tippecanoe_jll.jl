@@ -1,0 +1,15 @@
+name = "tippecanoe_jll"
+uuid = "6e4bcf07-11bd-542f-a056-5857bcc30079"
+version = "1.36.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+SQLite_jll = "76ed43ae-9a5d-5a62-8c75-30186b810ce8"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.0"

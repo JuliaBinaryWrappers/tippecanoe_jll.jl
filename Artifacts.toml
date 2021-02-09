@@ -1,0 +1,91 @@
+[[tippecanoe]]
+arch = "aarch64"
+git-tree-sha1 = "fc3ead561551a4c5c324006987e08eda7a179f52"
+libc = "glibc"
+os = "linux"
+
+    [[tippecanoe.download]]
+    sha256 = "120bd5fef87e76a2d6908b6fa6aaf1672331e0088b024b8a3505ac58b7d6f20f"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.aarch64-linux-gnu.tar.gz"
+[[tippecanoe]]
+arch = "aarch64"
+git-tree-sha1 = "a4f35dc86557d0c40db067322bb1c3eccf11059f"
+libc = "musl"
+os = "linux"
+
+    [[tippecanoe.download]]
+    sha256 = "c187a93eebd303ecccefbf706adc9c08412b84d96bafb91ac73595ad78188321"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.aarch64-linux-musl.tar.gz"
+[[tippecanoe]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fb1dbac99238cd5c6763a15d4a52a42c38c0829c"
+libc = "glibc"
+os = "linux"
+
+    [[tippecanoe.download]]
+    sha256 = "7d30c3ab3fe537344f804f2db8f7e1587ce8883d6b09ff463f6a465f61122dc2"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.armv7l-linux-gnueabihf.tar.gz"
+[[tippecanoe]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "45fb7944c32e371677d1fba83fcdaa887a7cd115"
+libc = "musl"
+os = "linux"
+
+    [[tippecanoe.download]]
+    sha256 = "497ac4ecba5973237cb7828a32b4cf0c4bcaffcbeb6fda0917b957daaf67ea09"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.armv7l-linux-musleabihf.tar.gz"
+[[tippecanoe]]
+arch = "i686"
+git-tree-sha1 = "74b076be3311a837750ae7c8efc34f4531847e79"
+libc = "glibc"
+os = "linux"
+
+    [[tippecanoe.download]]
+    sha256 = "ee16b12dd9303ff124a45195ec4aa99e28547aa893ec37755eeeeafee7f09292"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.i686-linux-gnu.tar.gz"
+[[tippecanoe]]
+arch = "i686"
+git-tree-sha1 = "678888d2b09551641d3ab819595c3762e9ccb215"
+libc = "musl"
+os = "linux"
+
+    [[tippecanoe.download]]
+    sha256 = "15a8f256b2029f689c383d80c296fe47f0a833e4e9394c09dc5a5a36076c1dd1"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.i686-linux-musl.tar.gz"
+[[tippecanoe]]
+arch = "powerpc64le"
+git-tree-sha1 = "32d928eb579bf016f708e82ead3e9e0308be32d8"
+libc = "glibc"
+os = "linux"
+
+    [[tippecanoe.download]]
+    sha256 = "02e695d3e955a8e98d66138731fbf177f527321dd586d6588d3266f56865c8cb"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.powerpc64le-linux-gnu.tar.gz"
+[[tippecanoe]]
+arch = "x86_64"
+git-tree-sha1 = "757ed8d5dbbc9ca502645451ccf18f6dfa0ed761"
+os = "macos"
+
+    [[tippecanoe.download]]
+    sha256 = "b9d55e5927d45ca62400a3adbddf79e8314585ffeb96c039c20b2965850d4b8b"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.x86_64-apple-darwin.tar.gz"
+[[tippecanoe]]
+arch = "x86_64"
+git-tree-sha1 = "8e3936a41040581e81a6229e037e125af3cd6822"
+libc = "glibc"
+os = "linux"
+
+    [[tippecanoe.download]]
+    sha256 = "ee86a2b37ef75c5e865ae4f18d4f6c2f69ea9d137cf2ad538e1ba86783780ec3"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.x86_64-linux-gnu.tar.gz"
+[[tippecanoe]]
+arch = "x86_64"
+git-tree-sha1 = "a8ab34649e5fc4d321c464761e1f7f658d075338"
+libc = "musl"
+os = "linux"
+
+    [[tippecanoe.download]]
+    sha256 = "ac228dfae2b0f8108d0ba22a4e367cc7c6e01864cec31677f66fe40bbb5cb8b0"
+    url = "https://github.com/JuliaBinaryWrappers/tippecanoe_jll.jl/releases/download/tippecanoe-v1.36.0+0/tippecanoe.v1.36.0.x86_64-linux-musl.tar.gz"
